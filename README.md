@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Frontend Web Development and UI/UX.
 - 🌱 I’m currently learning ...JavaScript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...through mail and Social media links are mentioned. 
+- 📫 How to reach me ...through mail and Social media (links are mentioned). 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..."I turn coffee into clean code (most of the time)." and "Ctrl + Z is my best friend."
 
